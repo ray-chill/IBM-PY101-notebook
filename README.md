@@ -1,2 +1,3 @@
 # IBM-PY101-notebook
-Practices notebooks from class IBM PY101
+Here are the practices notebooks from class IBM PY101
+The class is offered on edx.org
